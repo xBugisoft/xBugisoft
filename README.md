@@ -7,4 +7,11 @@
 -------------------------------------------------------------------------------------------------------------
 ![logo](https://cdn.discordapp.com/attachments/808024783022325802/864193064302411776/logo.gif)
 -------------------------------------------------------------------------------------------------------------
+I code in Python 3.7 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><p align="left"> 
 Discord: SCSI#0785
+
+```python
+#  python is the easier language to learn since there is no main or brackets :D
+#  this mf:
+   Indentation Error: Expected an indented block
+```
