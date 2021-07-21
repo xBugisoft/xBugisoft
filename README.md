@@ -2,3 +2,4 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=informational)
 ![Subl](https://img.shields.io/badge/Sublime_Text-000000?style=for-the-badge&logo=Sublime-Text&logoColor=important)
+![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=Kali-Linux&logoColor=9cf)
